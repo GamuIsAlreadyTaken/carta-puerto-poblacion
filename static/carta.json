@@ -1,0 +1,35 @@
+{
+  "es": "De nuestra carta",
+  "items": [
+    {
+      "es": "Picoteamos un poco",
+      "items": [
+        {
+          "es": "Ensalada de Rulo de queso de cabra, bonito, pimientos asados y cebolla Caramelizada",
+          "price": 16.00
+        },
+        {
+          "es": "Ensalada mixta Puerto de La Población",
+          "price": 11.00
+        },
+        {
+          "es": "Ensalada Tomata y Bacalao Ahumado con Chutney de Manzana y Mango",
+          "price": 14.00
+        }
+      ]
+    },
+    {
+      "es": "Un poco de Pescado",
+      "items": [
+        {
+          "es": "Lubina a la brasa al estio del Puerto(1 o 2 Pax)",
+          "price": "S.P.M."
+        },
+        {
+          "es": "Rodaballo a la parrila (2 Pax)",
+          "price": "S.P.M."
+        }
+      ]
+    }
+  ] 
+}
