@@ -16,7 +16,7 @@
 }
 
 body {
-  margin: 0 20px;
+  margin: 0 20px 80px 20px;
   min-width: 320px;
   min-height: 100vh;
 }

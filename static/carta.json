@@ -1,8 +1,12 @@
 {
   "es": "De nuestra carta",
+  "us": "From our menu",
+  "fr": "De notre carte",
   "items": [
     {
       "es": "Picoteamos un poco",
+      "us": "Some snacks",
+      "fr": "Quelques départs",
       "items": [
         {
           "es": "Ensalada de Rulo de queso de cabra, bonito, pimientos asados y cebolla Caramelizada",
@@ -80,9 +84,11 @@
     },
     {
       "es": "Un poco de Pescado",
+      "us": "Some fish",
+      "fr": "Des poissons",
       "items": [
         {
-          "es": "Lubina a la brasa al estio del Puerto(1 o 2 Pax)",
+          "es": "Lubina a la brasa al estio del Puerto (1 o 2 Pax)",
           "price": "S.P.M."
         },
         {
@@ -105,6 +111,8 @@
     },
     {
       "es": "Un poco de carne",
+      "us": "Some meat",
+      "fr": "De la viandre",
       "items": [
         {
           "es": "Solomillo a la Parrilla con su guarnición",
@@ -123,12 +131,12 @@
           "price": 23.50
         },
         {
-          "es": "Chuletón. Nacional Precio por Kg",
-          "price": 68.00
+          "es": "Chuletón. Nacional",
+          "price": "68,00 €/Kg "
         },
         {
-          "es": "Chuletón. Importación Precio por Kg",
-          "price": 62.00
+          "es": "Chuletón. Importación",
+          "price": "62,00 €/Kg"
         },
         {
           "es": "Lechazo de Burgos asado IGP (1/4 para 2 personas) Previa reserva",
@@ -137,6 +145,8 @@
       ]
     },{
       "es": "Acabamos",
+      "us": "Finishing up",
+      "fr": "Pour terminer",
       "items":[
         {
           "es": "Arroz con Leche al estilo Cántabro (Apto para celiacos)",
