@@ -13,8 +13,68 @@
           "price": 11.00
         },
         {
-          "es": "Ensalada Tomata y Bacalao Ahumado con Chutney de Manzana y Mango",
+          "es": "Ensalada Tomate y Bacalao Ahumado con Chutney de Manzana y Mango",
           "price": 14.00
+        },
+        {
+          "es": "Escalivada sobre hojaldre con sardinas Ahumadas y toque de Ali olí de ajo negro",
+          "price": 13.50
+        },
+        {
+          "es": "Anchoas pesca del cantábrico",
+          "price": 16.00
+        },
+        {
+          "es": "Jamón Ibérico de Guijuelo con Pan Tumaca",
+          "price": 22.00
+        },
+        {
+          "es": "Cecina de León con Lascas de Parmesano",
+          "price": 16.00
+        },
+        {
+          "es": "Tabla de embutidos ibéricos",
+          "price": 19.50
+        },
+        {
+          "es": "Espárragos a la Plancha sobre Cecina de León con toque de Crema Balsámica",
+          "price": 14.00
+        },
+        {
+          "es": "Espárragos blancos al estilo navarra",
+          "price": 14.00
+        },
+        {
+          "es": "Gambas blancas a la plancha",
+          "price": 19.00
+        },
+        {
+          "es": "Gambón al ajillo",
+          "price": 15.00
+        },
+        {
+          "es": "Rabas al estilo Cántabro",
+          "price": 9.50
+        },
+        {
+          "es": "Croquetas caseras de Jamón Ibérico",
+          "price": 9.00
+        },
+        {
+          "es": "Revuelto de Boletus Edulis con virutas de foie",
+          "price": 15.00
+        },
+        {
+          "es": "Pulpo a la gallega con sus patatas y ajada gallega",
+          "price": 19.80
+        },
+        {
+          "es": "Morcilla de Burgos sobre lecho de Pimientos Rojos",
+          "price": 9.50
+        },
+        {
+          "es": "Torreznos de Soria",
+          "price": 9.90
         }
       ]
     },
@@ -28,8 +88,85 @@
         {
           "es": "Rodaballo a la parrila (2 Pax)",
           "price": "S.P.M."
+        },
+        {
+          "es": "Bacalao a la riojana",
+          "price": 20.00
+        },
+        {
+          "es": "Bacalao al Pil Pil",
+          "price": 20.00
+        },
+        {
+          "es": "Merluza rellena de changurro con crema americana",
+          "price": 18.50
+        }
+      ]
+    },
+    {
+      "es": "Un poco de carne",
+      "items": [
+        {
+          "es": "Solomillo a la Parrilla con su guarnición",
+          "price": 25.50
+        },
+        {
+          "es": "Entrecot Brasa con patatas fritas y Pimientos",
+          "price": 20.00
+        },
+        {
+          "es": "Secreto Ibérico Parrilla con Chimichurri",
+          "price": 18.50
+        },
+        {
+          "es": "Chuletillas de lechazo IGP \"Tierra de Sabor\"",
+          "price": 23.50
+        },
+        {
+          "es": "Chuletón. Nacional Precio por Kg",
+          "price": 68.00
+        },
+        {
+          "es": "Chuletón. Importación Precio por Kg",
+          "price": 62.00
+        },
+        {
+          "es": "Lechazo de Burgos asado IGP (1/4 para 2 personas) Previa reserva",
+          "price": "S.P.M."
+        }
+      ]
+    },{
+      "es": "Acabamos",
+      "items":[
+        {
+          "es": "Arroz con Leche al estilo Cántabro (Apto para celiacos)",
+          "price": 4.50
+        },
+        {
+          "es": "Tarta de Queso Casera con culis de Frutos Rojos (Apto para celiacos)",
+          "price": 5.80
+        },
+        {
+          "es": "Coulant de Chocolate con Crema Inglesa (Apto para celiacos sin la crema)",
+          "price": 5.50
+        },
+        {
+          "es": "Brownie de Chocolate con Helado de Queso",
+          "price": 5.50
+        },
+        {
+          "es": "Surtido de helados Artesanos de Campoo",
+          "price": 6.00
+        },
+        {
+          "es": "Strudell de Manzaa con Helado de Vainilla",
+          "price": 6.50
+        },
+        {
+          "es": "Flan de la casa con helado",
+          "price": 5.00
         }
       ]
     }
-  ] 
+  ]
 }
